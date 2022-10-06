@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { BuilderComponent, builder, useIsPreviewing } from "@builder.io/react";
 import "./App.css";
-builder.init("7a00fb9fbc3e46c0bb66716decd3f14f");
+builder.init("c530ff1f2ed64c0aa8bd509c45469b6b");
 
 const App = () => {
   const isPreviewingInBuilder = useIsPreviewing();
